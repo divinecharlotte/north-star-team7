@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: railwayBold;
+    src: url(../Raleway/static/Raleway-Bold.ttf);
+
+}
+@font-face {
+    font-family: railwayRegular;
+    src: url(../Raleway/static/Raleway-Regular.ttf);
+
+}
+@font-face {
+    font-family: railwayLight;
+    src: url(../Raleway/static/Raleway-Light.ttf);
+
+}
+@font-face {
+    font-family: railwayItalic;
+    src: url(../Raleway/static/Raleway-Italic.ttf);
+
+}
+@font-face {
+    font-family: railwayBlack;
+    src: url(../Raleway/static/Raleway-Black.ttf);
+
+}
+.ojemba-gradient1 {
+    background: linear-gradient(304deg, rgba(138, 204, 80, 0.50) 14.06%, rgba(0, 0, 0, 0.00) 100%), #001342;
+  }
+.ojemba-gradient2{
+    background: linear-gradient(131deg, rgba(138, 204, 80, 0.50) 4.55%, rgba(0, 0, 0, 0.00) 100%), #001342;
+}
+.ojemba-white{
+    background: #F1F4F6;
+}
+.ojemba-yellow{
+    background: #f4ba00;
+}
