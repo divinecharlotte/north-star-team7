@@ -2,7 +2,19 @@
 module.exports = {
   content: ["*.{html,js}"],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+       "railwayBold" : "railwayBold",
+       "railwayRegular" : "railwayRegular",
+       "railwayItalic" : "railwayItalic",
+       "railwayLight" : "railwayLight",
+       "railwayBlack" : "railwayBlack",
+      },
+      colors: {
+        "green": '#8ACC50',
+        "darkBlue":"#001342"
+      }
+    },
   },
   plugins: [],
 }
