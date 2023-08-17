@@ -534,20 +534,108 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> a9c4a43... project set up
-.bg-blue-700 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(29 78 216 / var(--tw-bg-opacity));
+.ml-36 {
+  margin-left: 9rem;
 }
 
-.bg-red-800 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(153 27 27 / var(--tw-bg-opacity));
-<<<<<<< HEAD
+.mt-24 {
+  margin-top: 6rem;
+}
+
+.mt-4 {
+  margin-top: 1rem;
+}
+
+.mt-40 {
+  margin-top: 10rem;
+}
+
+.mr-3 {
+  margin-right: 0.75rem;
+}
+
+.mr-36 {
+  margin-right: 9rem;
+}
+
+.ml-3 {
+  margin-left: 0.75rem;
+}
+
+.flex {
+  display: flex;
+}
+
+.w-5\/6 {
+  width: 83.333333%;
+}
+
+.w-80 {
+  width: 20rem;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.gap-10 {
+  gap: 2.5rem;
+}
+
+.gap-2 {
+  gap: 0.5rem;
+}
+
+.gap-20 {
+  gap: 5rem;
+}
+
+.border-b-2 {
+  border-bottom-width: 2px;
+}
+
+.border-green {
+  --tw-border-opacity: 1;
+  border-color: rgb(138 204 80 / var(--tw-border-opacity));
+}
+
+.pr-24 {
+  padding-right: 6rem;
+}
+
+.pt-10 {
+  padding-top: 2.5rem;
+}
+
+.pt-20 {
+  padding-top: 5rem;
+}
+
+.pt-5 {
+  padding-top: 1.25rem;
+}
+
+.font-railwayBold {
+  font-family: railwayBold;
+}
+
+.text-sm {
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+}
+
+.text-gray-500 {
+  --tw-text-opacity: 1;
+  color: rgb(107 114 128 / var(--tw-text-opacity));
+}
+
+.text-green {
+  --tw-text-opacity: 1;
+  color: rgb(138 204 80 / var(--tw-text-opacity));
 }
 
 @font-face {
@@ -594,65 +682,8 @@ video {
 
 .ojemba-yellow{
   background: #f4ba00;
-=======
-.bg-red-600 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(220 38 38 / var(--tw-bg-opacity));
 }
 
-.text-center {
-  text-align: center;
->>>>>>> c82e34c... project setup
-=======
-.font-railwayItalic {
-  font-family: railwayItalic;
-=======
->>>>>>> a9c4a43... project set up
-}
-
-@font-face {
-  font-family: railwayBold;
-
-  src: url(../Raleway/static/Raleway-Bold.ttf);
-}
-
-@font-face {
-  font-family: railwayRegular;
-
-  src: url(../Raleway/static/Raleway-Regular.ttf);
-}
-
-@font-face {
-  font-family: railwayLight;
-
-  src: url(../Raleway/static/Raleway-Light.ttf);
-}
-
-@font-face {
-  font-family: railwayItalic;
-
-  src: url(../Raleway/static/Raleway-Italic.ttf);
-}
-
-@font-face {
-  font-family: railwayBlack;
-
-  src: url(../Raleway/static/Raleway-Black.ttf);
-}
-
-.ojemba-gradient1 {
-  background: linear-gradient(304deg, rgba(138, 204, 80, 0.50) 14.06%, rgba(0, 0, 0, 0.00) 100%), #001342;
-}
-
-.ojemba-gradient2{
-  background: linear-gradient(131deg, rgba(138, 204, 80, 0.50) 4.55%, rgba(0, 0, 0, 0.00) 100%), #001342;
-}
-
-.ojemba-white{
-  background: #F1F4F6;
-}
-
-.ojemba-yellow{
-  background: #f4ba00;
->>>>>>> 2728d48... project setup
-}
+/* .ojemba-oblique {    
+     background-color:red;    
+      clip-path: polygon(0 0, 100% 0, 100% 100%, 0 60%); } */
