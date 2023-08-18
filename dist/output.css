@@ -538,10 +538,6 @@ video {
   position: relative;
 }
 
-.-top-\[60\] {
-  top: -60;
-}
-
 .-top-\[60px\] {
   top: -60px;
 }
@@ -552,6 +548,18 @@ video {
 
 .ml-4 {
   margin-left: 1rem;
+}
+
+.ml-44 {
+  margin-left: 11rem;
+}
+
+.ml-\[100px\] {
+  margin-left: 100px;
+}
+
+.mr-28 {
+  margin-right: 7rem;
 }
 
 .mr-32 {
@@ -574,100 +582,8 @@ video {
   margin-top: 2rem;
 }
 
-.mt-\[\] {
-  margin-top: ;
-}
-
-.mt-\[192px\] {
-  margin-top: 192px;
-}
-
-.ml-\[\] {
-  margin-left: ;
-}
-
-.ml-\[50px\] {
-  margin-left: 50px;
-}
-
-.ml-\[80px\] {
-  margin-left: 80px;
-}
-
-.ml-\[100px\] {
-  margin-left: 100px;
-}
-
-.mt-\[100\] {
-  margin-top: 100;
-}
-
-.mt-\[100px\] {
-  margin-top: 100px;
-}
-
-.mt-\[19px\] {
-  margin-top: 19px;
-}
-
-.mt-\[1px\] {
-  margin-top: 1px;
-}
-
-.mt-\[px\] {
-  margin-top: px;
-}
-
-.mt-\[20px\] {
-  margin-top: 20px;
-}
-
-.mt-\[32px\] {
-  margin-top: 32px;
-}
-
-.mt-\[50px\] {
-  margin-top: 50px;
-}
-
-.mt-\[80px\] {
-  margin-top: 80px;
-}
-
 .mt-\[90px\] {
   margin-top: 90px;
-}
-
-.mr-96 {
-  margin-right: 24rem;
-}
-
-.mr-9 {
-  margin-right: 2.25rem;
-}
-
-.mr-80 {
-  margin-right: 20rem;
-}
-
-.ml-80 {
-  margin-left: 20rem;
-}
-
-.mr-4 {
-  margin-right: 1rem;
-}
-
-.mr-48 {
-  margin-right: 12rem;
-}
-
-.mr-28 {
-  margin-right: 7rem;
-}
-
-.mt-4 {
-  margin-top: 1rem;
 }
 
 .flex {
@@ -682,72 +598,12 @@ video {
   height: 500px;
 }
 
-.h-\[\] {
-  height: ;
-}
-
-.h-\[260px\] {
-  height: 260px;
-}
-
-.h-\[107\] {
-  height: 107;
-}
-
-.h-\[107px\] {
-  height: 107px;
-}
-
-.h-28 {
-  height: 7rem;
-}
-
-.h-10 {
-  height: 2.5rem;
-}
-
 .w-52 {
   width: 13rem;
 }
 
 .w-\[800px\] {
   width: 800px;
-}
-
-.w-\[\] {
-  width: ;
-}
-
-.w-\[V\] {
-  width: V;
-}
-
-.w-\[932px\] {
-  width: 932px;
-}
-
-.w-\[107\] {
-  width: 107;
-}
-
-.w-\[107px\] {
-  width: 107px;
-}
-
-.w-32 {
-  width: 8rem;
-}
-
-.w-28 {
-  width: 7rem;
-}
-
-.w-20 {
-  width: 5rem;
-}
-
-.w-10 {
-  width: 2.5rem;
 }
 
 .flex-row {
@@ -758,10 +614,6 @@ video {
   flex-direction: column;
 }
 
-.justify-end {
-  justify-content: flex-end;
-}
-
 .justify-center {
   justify-content: center;
 }
@@ -770,34 +622,25 @@ video {
   justify-content: space-between;
 }
 
-.justify-evenly {
-  justify-content: space-evenly;
-}
-
 .gap-48 {
   gap: 12rem;
 }
 
-.gap-x-4 {
-  -moz-column-gap: 1rem;
-       column-gap: 1rem;
-}
-
-.gap-x-6 {
-  -moz-column-gap: 1.5rem;
-       column-gap: 1.5rem;
-}
-
-.space-x-4 > :not([hidden]) ~ :not([hidden]) {
+.space-x-10 > :not([hidden]) ~ :not([hidden]) {
   --tw-space-x-reverse: 0;
-  margin-right: calc(1rem * var(--tw-space-x-reverse));
-  margin-left: calc(1rem * calc(1 - var(--tw-space-x-reverse)));
+  margin-right: calc(2.5rem * var(--tw-space-x-reverse));
+  margin-left: calc(2.5rem * calc(1 - var(--tw-space-x-reverse)));
 }
 
 .space-x-6 > :not([hidden]) ~ :not([hidden]) {
   --tw-space-x-reverse: 0;
   margin-right: calc(1.5rem * var(--tw-space-x-reverse));
   margin-left: calc(1.5rem * calc(1 - var(--tw-space-x-reverse)));
+}
+
+.py-6 {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
 }
 
 .font-railwayBold {
@@ -808,23 +651,14 @@ video {
   font-family: railwayLight;
 }
 
-.font-railwayRegular {
-  font-family: railwayRegular;
-}
-
-.text-4xl {
-  font-size: 2.25rem;
-  line-height: 2.5rem;
+.text-3xl {
+  font-size: 1.875rem;
+  line-height: 2.25rem;
 }
 
 .text-xs {
   font-size: 0.75rem;
   line-height: 1rem;
-}
-
-.text-sm {
-  font-size: 0.875rem;
-  line-height: 1.25rem;
 }
 
 .text-green {
