@@ -534,6 +534,7 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
+<<<<<<< HEAD
 .relative {
   position: relative;
 }
@@ -1037,6 +1038,88 @@ video {
 .text-xl {
   font-size: 1.25rem;
   line-height: 1.75rem;
+=======
+.static {
+  position: static;
+}
+
+.absolute {
+  position: absolute;
+}
+
+.bottom-0 {
+  bottom: 0px;
+}
+
+.left-0 {
+  left: 0px;
+}
+
+.right-0 {
+  right: 0px;
+}
+
+.mt-20 {
+  margin-top: 5rem;
+}
+
+.flex {
+  display: flex;
+}
+
+.w-1\/3 {
+  width: 33.333333%;
+}
+
+.w-4\/5 {
+  width: 80%;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.gap-3 {
+  gap: 0.75rem;
+}
+
+.gap-4 {
+  gap: 1rem;
+}
+
+.border-b-2 {
+  border-bottom-width: 2px;
+}
+
+.border-green {
+  --tw-border-opacity: 1;
+  border-color: rgb(138 204 80 / var(--tw-border-opacity));
+}
+
+.bg-darkBlue {
+  --tw-bg-opacity: 1;
+  background-color: rgb(0 19 66 / var(--tw-bg-opacity));
+}
+
+.p-24 {
+  padding: 6rem;
+}
+
+.pl-36 {
+  padding-left: 9rem;
+}
+
+.pr-36 {
+  padding-right: 9rem;
+}
+
+.pt-40 {
+  padding-top: 10rem;
+}
+
+.font-railwayBold {
+  font-family: railwayBold;
+>>>>>>> add subSahara section
 }
 
 .text-xs {
@@ -1044,6 +1127,7 @@ video {
   line-height: 1rem;
 }
 
+<<<<<<< HEAD
 .font-extralight {
   font-weight: 200;
 }
@@ -1068,6 +1152,10 @@ video {
 .text-gray-300 {
   --tw-text-opacity: 1;
   color: rgb(209 213 219 / var(--tw-text-opacity));
+=======
+.font-light {
+  font-weight: 300;
+>>>>>>> add subSahara section
 }
 
 .text-green {
@@ -1115,7 +1203,7 @@ video {
 }
 
 .ojemba-gradient2{
-  background: linear-gradient(131deg, rgba(138, 204, 80, 0.50) 4.55%, rgba(0, 0, 0, 0.00) 100%), #001342;
+  background: linear-gradient(131deg, rgba(138, 204, 80, 0.50) 4.55%, rgba(0, 0, 0, 0.00) 60%), #001342;
 }
 
 .ojemba-white{
@@ -1126,6 +1214,7 @@ video {
   background: #f4ba00;
 }
 
+<<<<<<< HEAD
 .ojemba-oblique {
   background: linear-gradient(304deg, rgba(138, 204, 80, 0.50) 14.06%, rgba(0, 0, 0, 0.00) 100%), #001342;
   -webkit-clip-path: polygon(0 0, 100% 40%, 100% 100%, 0 100%);
@@ -1511,4 +1600,9 @@ video {
   .\32xl\:grid-cols-2 {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
+=======
+.before\:content-\[\'\2022\'\]::before {
+  --tw-content: '•';
+  content: var(--tw-content);
+>>>>>>> add subSahara section
 }
