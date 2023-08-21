@@ -534,6 +534,7 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
+<<<<<<< HEAD
 .relative {
   position: relative;
 }
@@ -595,10 +596,17 @@ video {
   margin-top: 2rem;
 }
 
+=======
+.mt-10 {
+  margin-top: 2.5rem;
+}
+
+>>>>>>> c81c7b4 (Add Usere Teams)
 .flex {
   display: flex;
 }
 
+<<<<<<< HEAD
 .grid {
   display: grid;
 }
@@ -661,12 +669,21 @@ video {
   --tw-space-x-reverse: 0;
   margin-right: calc(1.5rem * var(--tw-space-x-reverse));
   margin-left: calc(1.5rem * calc(1 - var(--tw-space-x-reverse)));
+=======
+.h-\[600px\] {
+  height: 600px;
+}
+
+.h-full {
+  height: 100%;
+>>>>>>> c81c7b4 (Add Usere Teams)
 }
 
 .overflow-hidden {
   overflow: hidden;
 }
 
+<<<<<<< HEAD
 .overflow-x-hidden {
   overflow-x: hidden;
 }
@@ -703,6 +720,25 @@ video {
 
 .pt-32 {
   padding-top: 8rem;
+=======
+.bg-black {
+  --tw-bg-opacity: 1;
+  background-color: rgb(0 0 0 / var(--tw-bg-opacity));
+}
+
+.px-32 {
+  padding-left: 8rem;
+  padding-right: 8rem;
+}
+
+.py-72 {
+  padding-top: 18rem;
+  padding-bottom: 18rem;
+}
+
+.pt-12 {
+  padding-top: 3rem;
+>>>>>>> c81c7b4 (Add Usere Teams)
 }
 
 .pt-4 {
@@ -713,8 +749,22 @@ video {
   font-family: railwayBold;
 }
 
+<<<<<<< HEAD
 .font-railwayLight {
   font-family: railwayLight;
+=======
+.font-railwayRegular {
+  font-family: railwayRegular;
+}
+
+.font-railwayBlack {
+  font-family: railwayBlack;
+}
+
+.text-base {
+  font-size: 1rem;
+  line-height: 1.5rem;
+>>>>>>> c81c7b4 (Add Usere Teams)
 }
 
 .text-sm {
@@ -722,6 +772,7 @@ video {
   line-height: 1.25rem;
 }
 
+<<<<<<< HEAD
 .text-5xl {
   font-size: 3rem;
   line-height: 1;
@@ -737,6 +788,8 @@ video {
   color: rgb(209 213 219 / var(--tw-text-opacity));
 }
 
+=======
+>>>>>>> c81c7b4 (Add Usere Teams)
 .text-green {
   --tw-text-opacity: 1;
   color: rgb(138 204 80 / var(--tw-text-opacity));
