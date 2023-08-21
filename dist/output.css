@@ -534,16 +534,20 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
-.mr-32 {
-  margin-right: 8rem;
-}
-
 .mt-10 {
   margin-top: 2.5rem;
 }
 
 .flex {
   display: flex;
+}
+
+.grid {
+  display: grid;
+}
+
+.hidden {
+  display: none;
 }
 
 .h-1 {
@@ -554,32 +558,12 @@ video {
   height: 100%;
 }
 
-.w-60 {
-  width: 15rem;
-}
-
 .w-96 {
   width: 24rem;
 }
 
 .w-full {
   width: 100%;
-}
-
-.w-9 {
-  width: 2.25rem;
-}
-
-.w-\[\] {
-  width: ;
-}
-
-.w-\[400px\] {
-  width: 400px;
-}
-
-.w-\[450px\] {
-  width: 450px;
 }
 
 .flex-col {
@@ -590,16 +574,16 @@ video {
   justify-content: center;
 }
 
+.justify-between {
+  justify-content: space-between;
+}
+
 .gap-16 {
   gap: 4rem;
 }
 
 .gap-28 {
   gap: 7rem;
-}
-
-.overflow-hidden {
-  overflow: hidden;
 }
 
 .bg-black {
@@ -622,21 +606,24 @@ video {
   padding-right: 0.75rem;
 }
 
+.px-8 {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.py-10 {
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+}
+
 .py-72 {
   padding-top: 18rem;
   padding-bottom: 18rem;
 }
 
-.pl-32 {
+.px-32 {
   padding-left: 8rem;
-}
-
-.pt-10 {
-  padding-top: 2.5rem;
-}
-
-.pt-28 {
-  padding-top: 7rem;
+  padding-right: 8rem;
 }
 
 .font-railwayBold {
@@ -723,4 +710,88 @@ video {
 
 .ojemba-yellow{
   background: #f4ba00;
+}
+
+@media (min-width: 640px) {
+  .sm\:block {
+    display: block;
+  }
+
+  .sm\:px-32 {
+    padding-left: 8rem;
+    padding-right: 8rem;
+  }
+
+  .sm\:py-72 {
+    padding-top: 18rem;
+    padding-bottom: 18rem;
+  }
+}
+
+@media (min-width: 768px) {
+  .md\:py-44 {
+    padding-top: 11rem;
+    padding-bottom: 11rem;
+  }
+
+  .md\:px-28 {
+    padding-left: 7rem;
+    padding-right: 7rem;
+  }
+
+  .md\:py-28 {
+    padding-top: 7rem;
+    padding-bottom: 7rem;
+  }
+
+  .md\:px-10 {
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+  }
+
+  .md\:py-20 {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .lg\:block {
+    display: block;
+  }
+
+  .lg\:flex {
+    display: flex;
+  }
+
+  .lg\:py-72 {
+    padding-top: 18rem;
+    padding-bottom: 18rem;
+  }
+
+  .lg\:px-32 {
+    padding-left: 8rem;
+    padding-right: 8rem;
+  }
+
+  .lg\:pt-28 {
+    padding-top: 7rem;
+  }
+}
+
+@media (min-width: 1280px) {
+  .xl\:py-72 {
+    padding-top: 18rem;
+    padding-bottom: 18rem;
+  }
+
+  .xl\:px-32 {
+    padding-left: 8rem;
+    padding-right: 8rem;
+  }
+
+  .xl\:py-52 {
+    padding-top: 13rem;
+    padding-bottom: 13rem;
+  }
 }
