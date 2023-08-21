@@ -562,10 +562,6 @@ video {
   width: 100%;
 }
 
-.max-w-\[1859px\] {
-  max-width: 1859px;
-}
-
 .flex-col {
   flex-direction: column;
 }
@@ -747,30 +743,7 @@ video {
 }
 
 @media (min-width: 1536px) {
-  .\32xl\:flex {
-    display: flex;
-  }
-
   .\32xl\:grid {
     display: grid;
-  }
-
-  .\32xl\:justify-center {
-    justify-content: center;
-  }
-
-  .\32xl\:text-4xl {
-    font-size: 2.25rem;
-    line-height: 2.5rem;
-  }
-
-  .\32xl\:text-9xl {
-    font-size: 8rem;
-    line-height: 1;
-  }
-
-  .\32xl\:text-2xl {
-    font-size: 1.5rem;
-    line-height: 2rem;
   }
 }
