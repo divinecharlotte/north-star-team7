@@ -675,6 +675,10 @@ video {
   grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 
+.w-8 {
+  width: 2rem;
+}
+
 .flex-col {
   flex-direction: column;
 }
@@ -798,6 +802,12 @@ video {
 
 .ojemba-yellow{
   background: #f4ba00;
+}
+
+.ojemba-oblique {
+  background: linear-gradient(304deg, rgba(138, 204, 80, 0.50) 14.06%, rgba(0, 0, 0, 0.00) 100%), #001342;
+  -webkit-clip-path: polygon(0 0, 100% 40%, 100% 100%, 0 100%);
+          clip-path: polygon(0 0, 100% 40%, 100% 100%, 0 100%);
 }
 
 @media (min-width: 640px) {
