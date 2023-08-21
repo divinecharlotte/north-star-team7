@@ -542,16 +542,20 @@ video {
   top: -0.5rem;
 }
 
-.-top-44 {
-  top: -11rem;
-}
-
 .left-2 {
   left: 0.5rem;
 }
 
 .left-5 {
   left: 1.25rem;
+}
+
+.z-0 {
+  z-index: 0;
+}
+
+.z-10 {
+  z-index: 10;
 }
 
 .mt-10 {
@@ -582,18 +586,6 @@ video {
   height: 100%;
 }
 
-.h-\[600px\] {
-  height: 600px;
-}
-
-.w-96 {
-  width: 24rem;
-}
-
-.w-full {
-  width: 100%;
-}
-
 .w-36 {
   width: 9rem;
 }
@@ -606,17 +598,13 @@ video {
   width: 60%;
 }
 
-.w-\[900px\] {
-  width: 900px;
+.w-full {
+  width: 100%;
 }
 
 .-rotate-1 {
   --tw-rotate: -1deg;
   transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
-}
-
-.grid-cols-3 {
-  grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 
 .flex-col {
@@ -631,37 +619,16 @@ video {
   justify-content: center;
 }
 
-.justify-between {
-  justify-content: space-between;
-}
-
 .justify-items-center {
   justify-items: center;
-}
-
-.gap-16 {
-  gap: 4rem;
-}
-
-.gap-28 {
-  gap: 7rem;
 }
 
 .gap-2 {
   gap: 0.5rem;
 }
 
-.overflow-hidden {
-  overflow: hidden;
-}
-
 .rounded-full {
   border-radius: 9999px;
-}
-
-.bg-black {
-  --tw-bg-opacity: 1;
-  background-color: rgb(0 0 0 / var(--tw-bg-opacity));
 }
 
 .bg-darkBlue {
@@ -683,29 +650,8 @@ video {
   --tw-bg-opacity: 0.8;
 }
 
-.px-3 {
-  padding-left: 0.75rem;
-  padding-right: 0.75rem;
-}
-
-.px-8 {
-  padding-left: 2rem;
-  padding-right: 2rem;
-}
-
-.py-10 {
-  padding-top: 2.5rem;
-  padding-bottom: 2.5rem;
-}
-
-.py-72 {
-  padding-top: 18rem;
-  padding-bottom: 18rem;
-}
-
-.px-32 {
-  padding-left: 8rem;
-  padding-right: 8rem;
+.bg-unsere {
+  background-image: url('/images/bg-unsere.webp');
 }
 
 .px-10 {
@@ -718,9 +664,19 @@ video {
   padding-right: 0.5rem;
 }
 
+.px-8 {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
 .py-1 {
   padding-top: 0.25rem;
   padding-bottom: 0.25rem;
+}
+
+.py-10 {
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
 }
 
 .py-5 {
@@ -752,30 +708,12 @@ video {
   padding-top: 1.5rem;
 }
 
-.pt-72 {
-  padding-top: 18rem;
-}
-
 .font-railwayBold {
   font-family: railwayBold;
 }
 
-.font-railwayRegular {
-  font-family: railwayRegular;
-}
-
 .font-railwayItalic {
   font-family: railwayItalic;
-}
-
-.text-sm {
-  font-size: 0.875rem;
-  line-height: 1.25rem;
-}
-
-.text-xl {
-  font-size: 1.25rem;
-  line-height: 1.75rem;
 }
 
 .text-base {
@@ -783,25 +721,23 @@ video {
   line-height: 1.5rem;
 }
 
+.text-sm {
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+}
+
 .text-xs {
   font-size: 0.75rem;
   line-height: 1rem;
-}
-
-.font-extralight {
-  font-weight: 200;
 }
 
 .font-semibold {
   font-weight: 600;
 }
 
-.leading-3 {
-  line-height: .75rem;
-}
-
-.leading-none {
-  line-height: 1;
+.text-black {
+  --tw-text-opacity: 1;
+  color: rgb(0 0 0 / var(--tw-text-opacity));
 }
 
 .text-green {
@@ -812,11 +748,6 @@ video {
 .text-white {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
-}
-
-.text-black {
-  --tw-text-opacity: 1;
-  color: rgb(0 0 0 / var(--tw-text-opacity));
 }
 
 @font-face {
@@ -873,40 +804,11 @@ video {
   .sm\:grid-cols-3 {
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
-
-  .sm\:px-32 {
-    padding-left: 8rem;
-    padding-right: 8rem;
-  }
-
-  .sm\:py-72 {
-    padding-top: 18rem;
-    padding-bottom: 18rem;
-  }
 }
 
 @media (min-width: 768px) {
-  .md\:-top-44 {
-    top: -11rem;
-  }
-
   .md\:block {
     display: block;
-  }
-
-  .md\:py-44 {
-    padding-top: 11rem;
-    padding-bottom: 11rem;
-  }
-
-  .md\:px-28 {
-    padding-left: 7rem;
-    padding-right: 7rem;
-  }
-
-  .md\:py-28 {
-    padding-top: 7rem;
-    padding-bottom: 7rem;
   }
 
   .md\:px-10 {
@@ -925,47 +827,12 @@ video {
     top: -11rem;
   }
 
-  .lg\:block {
-    display: block;
-  }
-
-  .lg\:flex {
-    display: flex;
-  }
-
   .lg\:w-\[900px\] {
     width: 900px;
-  }
-
-  .lg\:grid-cols-3 {
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-  }
-
-  .lg\:py-72 {
-    padding-top: 18rem;
-    padding-bottom: 18rem;
-  }
-
-  .lg\:px-32 {
-    padding-left: 8rem;
-    padding-right: 8rem;
-  }
-
-  .lg\:pt-28 {
-    padding-top: 7rem;
   }
 }
 
 @media (min-width: 1280px) {
-  .xl\:-top-44 {
-    top: -11rem;
-  }
-
-  .xl\:py-72 {
-    padding-top: 18rem;
-    padding-bottom: 18rem;
-  }
-
   .xl\:px-32 {
     padding-left: 8rem;
     padding-right: 8rem;
