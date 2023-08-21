@@ -1168,6 +1168,7 @@ video {
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 .object-cover {
   -o-object-fit: cover;
      object-fit: cover;
@@ -1176,6 +1177,18 @@ video {
 
 =======
 >>>>>>> d30b636 (feature: Updated the view of paragraphs.)
+=======
+.bg-white {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+}
+
+.bg-gray-500 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(107 114 128 / var(--tw-bg-opacity));
+}
+
+>>>>>>> 46d0bf5 (Updated: updated the background for mobile breakpoint for the footer.)
 .px-2 {
   padding-left: 0.5rem;
   padding-right: 0.5rem;
@@ -1822,6 +1835,21 @@ video {
 
   .md\:gap-24 {
     gap: 6rem;
+  }
+
+  .md\:bg-slate-700 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(51 65 85 / var(--tw-bg-opacity));
+  }
+
+  .md\:bg-gray-500 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(107 114 128 / var(--tw-bg-opacity));
+  }
+
+  .md\:bg-slate-500 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(100 116 139 / var(--tw-bg-opacity));
   }
 
   .md\:pl-16 {
