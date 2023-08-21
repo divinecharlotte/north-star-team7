@@ -1010,6 +1010,7 @@ video {
   gap: 0.5rem;
 }
 
+<<<<<<< HEAD
 .gap-28 {
   gap: 7rem;
 =======
@@ -1088,6 +1089,8 @@ video {
 >>>>>>> c32d84d (Updates: Added the breakpoints for responsiveness.)
 =======
 >>>>>>> 78ac9e3 (Updates: Added the responsiveness for the footer.)
+=======
+>>>>>>> 1d91803 (Updates: Upadated the resonsive design of the footer)
 .rounded-full {
   border-radius: 9999px;
 }
@@ -1352,10 +1355,6 @@ video {
 .pl-6 {
   padding-left: 1.5rem;
 >>>>>>> c32d84d (Updates: Added the breakpoints for responsiveness.)
-}
-
-.pt-12 {
-  padding-top: 3rem;
 }
 
 .pt-8 {
@@ -1691,6 +1690,10 @@ video {
 
   .sm\:gap-28 {
     gap: 7rem;
+  }
+
+  .sm\:gap-4 {
+    gap: 1rem;
   }
 
   .sm\:gap-5 {
