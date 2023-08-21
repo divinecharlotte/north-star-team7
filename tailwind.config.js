@@ -13,9 +13,13 @@ module.exports = {
       colors: {
         "green": '#8ACC50',
         "darkBlue":"#001342"
-      }
+      },
+      screens: {
+        xs: { min: "375px" },
+        lg: { min: "768px" },
+      },
     },
-  },
+    },
   plugins: [],
 }
 
