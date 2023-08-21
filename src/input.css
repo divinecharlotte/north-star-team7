@@ -44,3 +44,10 @@
     background: linear-gradient(304deg, rgba(138, 204, 80, 0.50) 14.06%, rgba(0, 0, 0, 0.00) 100%), #001342;
     clip-path: polygon(0 0, 100% 40%, 100% 100%, 0 100%); 
 }
+
+@media (max-width: 640px) {
+    .ojemba-oblique{
+        background: linear-gradient(304deg, rgba(138, 204, 80, 0.50) 14.06%, rgba(0, 0, 0, 0.00) 100%), #001342;
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%); 
+    }
+}
