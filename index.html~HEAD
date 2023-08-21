@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/dist/output.css" rel="stylesheet">
+    <title>Ojemba</title>
+</head>
+<script>
+    const loadComponents = (id, url) =>  {
+        fetch(url)
+        .then((response) => response.text())
+        .then((html) => {
+            document.getElementById(id).innerHTML = html;
+        });
+    }
+
+    window.onload = () => {
+        loadComponents('hero', 'src/sections/hero.html');
+        loadComponents('managedTeams', 'src/sections/managedTeams.html');
+        loadComponents('unsereTeams', 'src/sections/unsereTeams.html');
+        loadComponents('qualitat', 'src/sections/qualitat.html');
+        loadComponents('maibornwolff', 'src/sections/maibornwolff.html');
+        loadComponents('dieFounder', 'src/sections/dieFounder.html');
+        loadComponents('fragenAntworten', 'src/sections/fragenAntworten.html');
+    }
+</script>
+<body>
+    <div id="hero"></div>
+    <div id="managedTeams"></div>
+    <div id="unsereTeams"></div>
+    <div id="qualitat"></div>
+    <div id="maibornwolff"></div>
+    <div id="dieFounder"></div>
+    <div id="fragenAntworten"></div>
+</body>
+</html>
