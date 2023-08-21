@@ -537,6 +537,7 @@ video {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 .relative {
   position: relative;
 }
@@ -609,6 +610,8 @@ video {
 >>>>>>> 78ac9e3 (Updates: Added the responsiveness for the footer.)
 }
 
+=======
+>>>>>>> dbe00fc (Updates: solved the responsive issue raised in the reviews.)
 .ml-4 {
   margin-left: 1rem;
 }
@@ -966,12 +969,18 @@ video {
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> dbe00fc (Updates: solved the responsive issue raised in the reviews.)
 .justify-center {
   justify-content: center;
 }
 
+<<<<<<< HEAD
 =======
 >>>>>>> 167d15f (feature: Added the Fragen und Antworten section and the footer section.)
+=======
+>>>>>>> dbe00fc (Updates: solved the responsive issue raised in the reviews.)
 .justify-between {
   justify-content: space-between;
 }
@@ -1169,6 +1178,7 @@ video {
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 .object-cover {
   -o-object-fit: cover;
      object-fit: cover;
@@ -1189,6 +1199,8 @@ video {
 }
 
 >>>>>>> 46d0bf5 (Updated: updated the background for mobile breakpoint for the footer.)
+=======
+>>>>>>> dbe00fc (Updates: solved the responsive issue raised in the reviews.)
 .px-2 {
   padding-left: 0.5rem;
   padding-right: 0.5rem;
@@ -1263,10 +1275,16 @@ video {
   padding-bottom: 0.5rem;
 }
 
+.py-12 {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
 .pb-2 {
   padding-bottom: 0.5rem;
 }
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 .pb-52 {
   padding-bottom: 13rem;
@@ -1342,6 +1360,12 @@ video {
 }
 
 <<<<<<< HEAD
+=======
+.pb-28 {
+  padding-bottom: 7rem;
+}
+
+>>>>>>> dbe00fc (Updates: solved the responsive issue raised in the reviews.)
 .pb-36 {
   padding-bottom: 9rem;
 }
@@ -1372,6 +1396,18 @@ video {
 
 .pt-8 {
   padding-top: 2rem;
+}
+
+.pb-1 {
+  padding-bottom: 0.25rem;
+}
+
+.pb-12 {
+  padding-bottom: 3rem;
+}
+
+.pb-8 {
+  padding-bottom: 2rem;
 }
 
 .font-railwayBold {
@@ -1664,6 +1700,14 @@ video {
 =======
 }
 
+@media (max-width: 640px) {
+  .ojemba-oblique{
+    background: linear-gradient(304deg, rgba(138, 204, 80, 0.50) 14.06%, rgba(0, 0, 0, 0.00) 100%), #001342;
+    -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+            clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+  }
+}
+
 @media (min-width: 640px) {
   .sm\:mt-10 {
     margin-top: 2.5rem;
@@ -1723,6 +1767,10 @@ video {
     padding-top: 0px;
   }
 
+  .sm\:pb-0 {
+    padding-bottom: 0px;
+  }
+
   .sm\:text-3xl {
     font-size: 1.875rem;
     line-height: 2.25rem;
@@ -1748,10 +1796,6 @@ video {
 
   .md\:ml-16 {
     margin-left: 4rem;
-  }
-
-  .md\:ml-20 {
-    margin-left: 5rem;
   }
 
   .md\:mt-8 {
@@ -1837,21 +1881,6 @@ video {
     gap: 6rem;
   }
 
-  .md\:bg-slate-700 {
-    --tw-bg-opacity: 1;
-    background-color: rgb(51 65 85 / var(--tw-bg-opacity));
-  }
-
-  .md\:bg-gray-500 {
-    --tw-bg-opacity: 1;
-    background-color: rgb(107 114 128 / var(--tw-bg-opacity));
-  }
-
-  .md\:bg-slate-500 {
-    --tw-bg-opacity: 1;
-    background-color: rgb(100 116 139 / var(--tw-bg-opacity));
-  }
-
   .md\:pl-16 {
     padding-left: 4rem;
   }
@@ -1886,11 +1915,14 @@ video {
     margin-left: 7rem;
   }
 
+<<<<<<< HEAD
   .lg\:ml-40 {
     margin-left: 10rem;
 >>>>>>> c32d84d (Updates: Added the breakpoints for responsiveness.)
   }
 
+=======
+>>>>>>> dbe00fc (Updates: solved the responsive issue raised in the reviews.)
   .lg\:mt-36 {
     margin-top: 9rem;
   }
@@ -2145,6 +2177,7 @@ video {
   }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
   .xl\:ml-44 {
     margin-left: 11rem;
   }
@@ -2170,6 +2203,8 @@ video {
     margin-left: 24rem;
   }
 
+=======
+>>>>>>> dbe00fc (Updates: solved the responsive issue raised in the reviews.)
   .xl\:pl-10 {
     padding-left: 2.5rem;
 >>>>>>> c32d84d (Updates: Added the breakpoints for responsiveness.)
