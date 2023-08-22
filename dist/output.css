@@ -538,6 +538,7 @@ video {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 .relative {
   position: relative;
 }
@@ -620,10 +621,17 @@ video {
   margin-left: 10rem;
 }
 
+=======
+.ml-4 {
+  margin-left: 1rem;
+}
+
+>>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
 .ml-5 {
   margin-left: 1.25rem;
 }
 
+<<<<<<< HEAD
 .ml-6 {
   margin-left: 1.5rem;
 }
@@ -677,10 +685,13 @@ video {
 >>>>>>> c32d84d (Updates: Added the breakpoints for responsiveness.)
 }
 
+=======
+>>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
 .mt-10 {
   margin-top: 2.5rem;
 }
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -694,18 +705,24 @@ video {
 
 =======
 >>>>>>> 78ac9e3 (Updates: Added the responsiveness for the footer.)
+=======
+>>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
 .mt-2 {
   margin-top: 0.5rem;
 }
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 78ac9e3 (Updates: Added the responsiveness for the footer.)
+=======
+>>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
 .mt-20 {
   margin-top: 5rem;
 }
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 .mt-28 {
   margin-top: 7rem;
@@ -752,6 +769,8 @@ video {
 >>>>>>> d30b636 (feature: Updated the view of paragraphs.)
 =======
 >>>>>>> 78ac9e3 (Updates: Added the responsiveness for the footer.)
+=======
+>>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
 .flex {
   display: flex;
 }
@@ -762,17 +781,23 @@ video {
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> c32d84d (Updates: Added the breakpoints for responsiveness.)
+=======
+>>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
 .hidden {
   display: none;
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 167d15f (feature: Added the Fragen und Antworten section and the footer section.)
 =======
 >>>>>>> c32d84d (Updates: Added the breakpoints for responsiveness.)
+=======
+>>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
 .h-1 {
   height: 0.25rem;
 }
@@ -780,10 +805,14 @@ video {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
 .h-10 {
   height: 2.5rem;
 }
 
+<<<<<<< HEAD
 .h-12 {
   height: 3rem;
 =======
@@ -874,10 +903,13 @@ video {
 >>>>>>> 78ac9e3 (Updates: Added the responsiveness for the footer.)
 }
 
+=======
+>>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
 .h-32 {
   height: 8rem;
 }
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 .max-h-44 {
@@ -907,6 +939,10 @@ video {
 .w-28 {
   width: 7rem;
 >>>>>>> 78ac9e3 (Updates: Added the responsiveness for the footer.)
+=======
+.w-28 {
+  width: 7rem;
+>>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
 }
 
 .w-56 {
@@ -914,16 +950,20 @@ video {
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 .w-\[60\%\] {
   width: 60%;
 }
 
 =======
 >>>>>>> 167d15f (feature: Added the Fragen und Antworten section and the footer section.)
+=======
+>>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
 .w-full {
   width: 100%;
 }
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -964,27 +1004,36 @@ video {
 
 =======
 >>>>>>> c32d84d (Updates: Added the breakpoints for responsiveness.)
+=======
+>>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
 .items-center {
   align-items: center;
 }
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> dbe00fc (Updates: solved the responsive issue raised in the reviews.)
+=======
+>>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
 .justify-center {
   justify-content: center;
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 167d15f (feature: Added the Fragen und Antworten section and the footer section.)
 =======
 >>>>>>> dbe00fc (Updates: solved the responsive issue raised in the reviews.)
+=======
+>>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
 .justify-between {
   justify-content: space-between;
 }
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1003,22 +1052,31 @@ video {
 }
 
 <<<<<<< HEAD
+=======
+>>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
 .gap-14 {
   gap: 3.5rem;
 }
 
+<<<<<<< HEAD
 =======
 >>>>>>> c32d84d (Updates: Added the breakpoints for responsiveness.)
+=======
+>>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
 .gap-16 {
   gap: 4rem;
 }
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
 .gap-2 {
   gap: 0.5rem;
 }
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 .gap-28 {
   gap: 7rem;
@@ -1100,10 +1158,13 @@ video {
 >>>>>>> 78ac9e3 (Updates: Added the responsiveness for the footer.)
 =======
 >>>>>>> 1d91803 (Updates: Upadated the resonsive design of the footer)
+=======
+>>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
 .rounded-full {
   border-radius: 9999px;
 }
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 .border-b-2 {
   border-bottom-width: 2px;
@@ -1168,6 +1229,10 @@ video {
 =======
 .bg-green {
   --tw-bg-opacity: 1;
+=======
+.bg-green {
+  --tw-bg-opacity: 1;
+>>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
   background-color: rgb(138 204 80 / var(--tw-bg-opacity));
 }
 
@@ -1176,6 +1241,7 @@ video {
   background-color: rgb(234 179 8 / var(--tw-bg-opacity));
 }
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1201,11 +1267,14 @@ video {
 >>>>>>> 46d0bf5 (Updated: updated the background for mobile breakpoint for the footer.)
 =======
 >>>>>>> dbe00fc (Updates: solved the responsive issue raised in the reviews.)
+=======
+>>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
 .px-2 {
   padding-left: 0.5rem;
   padding-right: 0.5rem;
 }
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 .px-3 {
   padding-left: 0.75rem;
@@ -1265,6 +1334,8 @@ video {
 .pt-12 {
   padding-top: 3rem;
 =======
+=======
+>>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
 .px-7 {
   padding-left: 1.75rem;
   padding-right: 1.75rem;
@@ -1284,6 +1355,7 @@ video {
   padding-bottom: 0.5rem;
 }
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 .pb-52 {
@@ -1361,15 +1433,21 @@ video {
 
 <<<<<<< HEAD
 =======
+=======
+>>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
 .pb-28 {
   padding-bottom: 7rem;
 }
 
+<<<<<<< HEAD
 >>>>>>> dbe00fc (Updates: solved the responsive issue raised in the reviews.)
+=======
+>>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
 .pb-36 {
   padding-bottom: 9rem;
 }
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 .text-center {
   text-align: center;
@@ -1384,14 +1462,21 @@ video {
 >>>>>>> d30b636 (feature: Updated the view of paragraphs.)
 =======
 =======
+=======
+>>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
 .pl-3 {
   padding-left: 0.75rem;
 }
 
+<<<<<<< HEAD
 >>>>>>> 78ac9e3 (Updates: Added the responsiveness for the footer.)
 .pl-6 {
   padding-left: 1.5rem;
 >>>>>>> c32d84d (Updates: Added the breakpoints for responsiveness.)
+=======
+.pl-6 {
+  padding-left: 1.5rem;
+>>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
 }
 
 .pt-8 {
@@ -1415,6 +1500,7 @@ video {
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 .font-railwayItalic {
   font-family: railwayItalic;
 }
@@ -1425,10 +1511,13 @@ video {
 
 =======
 >>>>>>> 167d15f (feature: Added the Fragen und Antworten section and the footer section.)
+=======
+>>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
 .font-railwayRegular {
   font-family: railwayRegular;
 }
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1440,6 +1529,11 @@ video {
   font-size: 1.5rem;
   line-height: 2rem;
 >>>>>>> 78ac9e3 (Updates: Added the responsiveness for the footer.)
+=======
+.text-2xl {
+  font-size: 1.5rem;
+  line-height: 2rem;
+>>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
 }
 
 .text-base {
@@ -1450,6 +1544,7 @@ video {
 .text-sm {
   font-size: 0.875rem;
   line-height: 1.25rem;
+<<<<<<< HEAD
 =======
 =======
 .text-2xl {
@@ -1478,6 +1573,8 @@ video {
   font-size: 0.875rem;
   line-height: 1.25rem;
 >>>>>>> c32d84d (Updates: Added the breakpoints for responsiveness.)
+=======
+>>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
 }
 
 .text-xl {
@@ -1485,6 +1582,7 @@ video {
   line-height: 1.75rem;
 }
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 .text-xs {
   font-size: 0.75rem;
@@ -1528,6 +1626,8 @@ video {
 
 =======
 >>>>>>> 167d15f (feature: Added the Fragen und Antworten section and the footer section.)
+=======
+>>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
 .text-white {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
@@ -1583,6 +1683,7 @@ video {
   background: linear-gradient(304deg, rgba(138, 204, 80, 0.50) 14.06%, rgba(0, 0, 0, 0.00) 100%), #001342;
   -webkit-clip-path: polygon(0 0, 100% 40%, 100% 100%, 0 100%);
           clip-path: polygon(0 0, 100% 40%, 100% 100%, 0 100%);
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 }
@@ -1698,6 +1799,8 @@ video {
     font-size: 1.25rem;
     line-height: 1.75rem;
 =======
+=======
+>>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
 }
 
 @media (max-width: 640px) {
@@ -1760,7 +1863,10 @@ video {
   .sm\:px-7 {
     padding-left: 1.75rem;
     padding-right: 1.75rem;
+<<<<<<< HEAD
 >>>>>>> c32d84d (Updates: Added the breakpoints for responsiveness.)
+=======
+>>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
   }
 
   .sm\:pt-0 {
@@ -1789,7 +1895,10 @@ video {
 
 @media (min-width: 768px) {
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
   .md\:ml-12 {
     margin-left: 3rem;
   }
@@ -1802,11 +1911,15 @@ video {
     margin-top: 2rem;
   }
 
+<<<<<<< HEAD
 >>>>>>> c32d84d (Updates: Added the breakpoints for responsiveness.)
+=======
+>>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
   .md\:block {
     display: block;
   }
 
+<<<<<<< HEAD
 <<<<<<< HEAD
   .md\:px-10 {
     padding-left: 2.5rem;
@@ -1873,6 +1986,8 @@ video {
   .lg\:mt-3 {
     margin-top: 0.75rem;
 =======
+=======
+>>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
   .md\:w-80 {
     width: 20rem;
   }
@@ -1916,6 +2031,7 @@ video {
   }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
   .lg\:ml-40 {
     margin-left: 10rem;
 >>>>>>> c32d84d (Updates: Added the breakpoints for responsiveness.)
@@ -1923,10 +2039,13 @@ video {
 
 =======
 >>>>>>> dbe00fc (Updates: solved the responsive issue raised in the reviews.)
+=======
+>>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
   .lg\:mt-36 {
     margin-top: 9rem;
   }
 
+<<<<<<< HEAD
 <<<<<<< HEAD
   .lg\:mt-40 {
     margin-top: 10rem;
@@ -2073,6 +2192,8 @@ video {
     padding-top: 1.5rem;
     padding-bottom: 1.5rem;
 =======
+=======
+>>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
   .lg\:grid {
     display: grid;
   }
@@ -2092,13 +2213,17 @@ video {
   .lg\:py-3 {
     padding-top: 0.75rem;
     padding-bottom: 0.75rem;
+<<<<<<< HEAD
 >>>>>>> c32d84d (Updates: Added the breakpoints for responsiveness.)
+=======
+>>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
   }
 
   .lg\:pl-36 {
     padding-left: 9rem;
   }
 
+<<<<<<< HEAD
 <<<<<<< HEAD
   .lg\:pr-28 {
     padding-right: 7rem;
@@ -2126,11 +2251,14 @@ video {
 
 =======
 >>>>>>> c32d84d (Updates: Added the breakpoints for responsiveness.)
+=======
+>>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
   .lg\:text-3xl {
     font-size: 1.875rem;
     line-height: 2.25rem;
   }
 
+<<<<<<< HEAD
 <<<<<<< HEAD
   .lg\:text-5xl {
     font-size: 3rem;
@@ -2155,6 +2283,8 @@ video {
 
 @media (min-width: 1280px) {
 =======
+=======
+>>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
   .lg\:text-4xl {
     font-size: 2.25rem;
     line-height: 2.5rem;
@@ -2171,11 +2301,15 @@ video {
     margin-left: 8rem;
   }
 
+<<<<<<< HEAD
 >>>>>>> c32d84d (Updates: Added the breakpoints for responsiveness.)
+=======
+>>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
   .xl\:ml-36 {
     margin-left: 9rem;
   }
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   .xl\:ml-44 {
@@ -2208,10 +2342,15 @@ video {
   .xl\:pl-10 {
     padding-left: 2.5rem;
 >>>>>>> c32d84d (Updates: Added the breakpoints for responsiveness.)
+=======
+  .xl\:pl-10 {
+    padding-left: 2.5rem;
+>>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
   }
 }
 
 @media (min-width: 1536px) {
+<<<<<<< HEAD
 <<<<<<< HEAD
   .\32xl\:grid {
     display: grid;
@@ -2225,6 +2364,8 @@ video {
 }
 >>>>>>> 167d15f (feature: Added the Fragen und Antworten section and the footer section.)
 =======
+=======
+>>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
   .\32xl\:mt-64 {
     margin-top: 16rem;
   }
@@ -2232,5 +2373,9 @@ video {
   .\32xl\:gap-56 {
     gap: 14rem;
   }
+<<<<<<< HEAD
 }
 >>>>>>> c32d84d (Updates: Added the breakpoints for responsiveness.)
+=======
+}
+>>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
