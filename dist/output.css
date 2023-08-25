@@ -534,11 +534,6 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 .relative {
   position: relative;
 }
@@ -549,10 +544,6 @@ video {
 
 .-top-2 {
   top: -0.5rem;
-}
-
-.-top-\[220px\] {
-  top: -220px;
 }
 
 .left-2 {
@@ -583,6 +574,11 @@ video {
   margin: 1.5rem;
 }
 
+.mx-4 {
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
 .mx-5 {
   margin-left: 1.25rem;
   margin-right: 1.25rem;
@@ -598,54 +594,40 @@ video {
   margin-bottom: 5rem;
 }
 
+.-ml-2 {
+  margin-left: -0.5rem;
+}
+
+.-mt-36 {
+  margin-top: -9rem;
+}
+
+.mb-2 {
+  margin-bottom: 0.5rem;
+}
+
 .mb-20 {
   margin-bottom: 5rem;
 }
 
+.mb-4 {
+  margin-bottom: 1rem;
+}
+
 .mb-6 {
   margin-bottom: 1.5rem;
-=======
-.mx-10 {
-  margin-left: 2.5rem;
-  margin-right: 2.5rem;
->>>>>>> 78ac9e3 (Updates: Added the responsiveness for the footer.)
 }
 
-=======
->>>>>>> dbe00fc (Updates: solved the responsive issue raised in the reviews.)
 .ml-4 {
   margin-left: 1rem;
 }
 
-.ml-40 {
-  margin-left: 10rem;
-}
-
-=======
-.ml-4 {
-  margin-left: 1rem;
-}
-
->>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
 .ml-5 {
   margin-left: 1.25rem;
 }
 
-<<<<<<< HEAD
 .ml-6 {
   margin-left: 1.5rem;
-}
-
-.ml-72 {
-  margin-left: 18rem;
-}
-
-.ml-80 {
-  margin-left: 20rem;
-}
-
-.mr-24 {
-  margin-right: 6rem;
 }
 
 .mr-28 {
@@ -656,45 +638,14 @@ video {
   margin-right: 8rem;
 }
 
-.mr-52 {
-  margin-right: 13rem;
+.mr-6 {
+  margin-right: 1.5rem;
 }
 
-.mr-96 {
-  margin-right: 24rem;
-=======
-.ml-32 {
-  margin-left: 8rem;
-=======
-.ml-10 {
-  margin-left: 2.5rem;
->>>>>>> c32d84d (Updates: Added the breakpoints for responsiveness.)
-}
-
-.ml-4 {
-  margin-left: 1rem;
-}
-
-<<<<<<< HEAD
-.ml-96 {
-  margin-left: 24rem;
->>>>>>> 167d15f (feature: Added the Fragen und Antworten section and the footer section.)
-=======
-.ml-5 {
-  margin-left: 1.25rem;
->>>>>>> c32d84d (Updates: Added the breakpoints for responsiveness.)
-}
-
-=======
->>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
 .mt-10 {
   margin-top: 2.5rem;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 .mt-12 {
   margin-top: 3rem;
 }
@@ -703,74 +654,38 @@ video {
   margin-top: 4rem;
 }
 
-=======
->>>>>>> 78ac9e3 (Updates: Added the responsiveness for the footer.)
-=======
->>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
 .mt-2 {
   margin-top: 0.5rem;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 78ac9e3 (Updates: Added the responsiveness for the footer.)
-=======
->>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
 .mt-20 {
   margin-top: 5rem;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-.mt-28 {
-  margin-top: 7rem;
+.mt-32 {
+  margin-top: 8rem;
+}
+
+.mt-36 {
+  margin-top: 9rem;
 }
 
 .mt-4 {
   margin-top: 1rem;
 }
 
-.mt-72 {
-  margin-top: 18rem;
-=======
-.mt-64 {
-  margin-top: 16rem;
->>>>>>> 167d15f (feature: Added the Fragen und Antworten section and the footer section.)
-=======
-.mt-20 {
-  margin-top: 5rem;
->>>>>>> c32d84d (Updates: Added the breakpoints for responsiveness.)
+.mt-8 {
+  margin-top: 2rem;
 }
 
-.mt-4 {
-  margin-top: 1rem;
+.-mt-2 {
+  margin-top: -0.5rem;
 }
 
-.mt-64 {
-  margin-top: 16rem;
-}
-
-<<<<<<< HEAD
 .inline {
   display: inline;
-=======
-.mt-20 {
-  margin-top: 5rem;
 }
 
-.mt-16 {
-  margin-top: 4rem;
->>>>>>> 167d15f (feature: Added the Fragen und Antworten section and the footer section.)
-}
-
-=======
->>>>>>> d30b636 (feature: Updated the view of paragraphs.)
-=======
->>>>>>> 78ac9e3 (Updates: Added the responsiveness for the footer.)
-=======
->>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
 .flex {
   display: flex;
 }
@@ -779,55 +694,28 @@ video {
   display: grid;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> c32d84d (Updates: Added the breakpoints for responsiveness.)
-=======
->>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
 .hidden {
   display: none;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 167d15f (feature: Added the Fragen und Antworten section and the footer section.)
-=======
->>>>>>> c32d84d (Updates: Added the breakpoints for responsiveness.)
-=======
->>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
 .h-1 {
   height: 0.25rem;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
 .h-10 {
   height: 2.5rem;
 }
 
-<<<<<<< HEAD
 .h-12 {
   height: 3rem;
-=======
-.h-64 {
-  height: 16rem;
->>>>>>> 167d15f (feature: Added the Fragen und Antworten section and the footer section.)
 }
 
 .h-16 {
   height: 4rem;
 }
 
-<<<<<<< HEAD
-.h-56 {
-  height: 14rem;
+.h-32 {
+  height: 8rem;
 }
 
 .h-6 {
@@ -844,10 +732,6 @@ video {
 
 .h-80 {
   height: 20rem;
-}
-
-.h-\[400px\] {
-  height: 400px;
 }
 
 .h-full {
@@ -882,6 +766,10 @@ video {
   width: 11rem;
 }
 
+.w-56 {
+  width: 14rem;
+}
+
 .w-6 {
   width: 1.5rem;
 }
@@ -892,81 +780,20 @@ video {
 
 .w-8 {
   width: 2rem;
-=======
-=======
->>>>>>> d30b636 (feature: Updated the view of paragraphs.)
-.h-12 {
-  height: 3rem;
-=======
-.h-10 {
-  height: 2.5rem;
->>>>>>> 78ac9e3 (Updates: Added the responsiveness for the footer.)
 }
 
-=======
->>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
-.h-32 {
-  height: 8rem;
+.w-80 {
+  width: 20rem;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-.max-h-44 {
-  max-height: 11rem;
-}
-
-.max-h-56 {
-  max-height: 14rem;
-}
-
-.max-h-7 {
-  max-height: 1.75rem;
-}
-
-.max-h-72 {
-  max-height: 18rem;
-}
-
-.w-1\/3 {
-  width: 33.333333%;
->>>>>>> 167d15f (feature: Added the Fragen und Antworten section and the footer section.)
-=======
-.w-40 {
-  width: 10rem;
->>>>>>> d30b636 (feature: Updated the view of paragraphs.)
-=======
-.w-28 {
-  width: 7rem;
->>>>>>> 78ac9e3 (Updates: Added the responsiveness for the footer.)
-=======
-.w-28 {
-  width: 7rem;
->>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
-}
-
-.w-56 {
-  width: 14rem;
-}
-
-<<<<<<< HEAD
-<<<<<<< HEAD
 .w-\[60\%\] {
   width: 60%;
 }
 
-=======
->>>>>>> 167d15f (feature: Added the Fragen und Antworten section and the footer section.)
-=======
->>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
 .w-full {
   width: 100%;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 .-rotate-1 {
   --tw-rotate: -1deg;
   transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
@@ -982,108 +809,42 @@ video {
 
 .flex-wrap {
   flex-wrap: wrap;
-=======
-.w-56 {
-  width: 14rem;
 }
 
-.w-4 {
-  width: 1rem;
-}
-
-.w-40 {
-  width: 10rem;
-}
-
-=======
->>>>>>> d30b636 (feature: Updated the view of paragraphs.)
-.grid-cols-2 {
-  grid-template-columns: repeat(2, minmax(0, 1fr));
->>>>>>> 167d15f (feature: Added the Fragen und Antworten section and the footer section.)
-}
-
-=======
->>>>>>> c32d84d (Updates: Added the breakpoints for responsiveness.)
-=======
->>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
 .items-center {
   align-items: center;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> dbe00fc (Updates: solved the responsive issue raised in the reviews.)
-=======
->>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
 .justify-center {
   justify-content: center;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 167d15f (feature: Added the Fragen und Antworten section and the footer section.)
-=======
->>>>>>> dbe00fc (Updates: solved the responsive issue raised in the reviews.)
-=======
->>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
 .justify-between {
   justify-content: space-between;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 .justify-items-center {
   justify-items: center;
 }
 
-=======
->>>>>>> c32d84d (Updates: Added the breakpoints for responsiveness.)
 .gap-10 {
   gap: 2.5rem;
-=======
-.gap-14 {
-  gap: 3.5rem;
->>>>>>> 78ac9e3 (Updates: Added the responsiveness for the footer.)
 }
 
-<<<<<<< HEAD
-=======
->>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
 .gap-14 {
   gap: 3.5rem;
 }
 
-<<<<<<< HEAD
-=======
->>>>>>> c32d84d (Updates: Added the breakpoints for responsiveness.)
-=======
->>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
 .gap-16 {
   gap: 4rem;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
 .gap-2 {
   gap: 0.5rem;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 .gap-28 {
   gap: 7rem;
-=======
-.gap-2 {
-  gap: 0.5rem;
->>>>>>> 78ac9e3 (Updates: Added the responsiveness for the footer.)
 }
 
 .gap-3 {
@@ -1092,34 +853,12 @@ video {
 
 .gap-4 {
   gap: 1rem;
-=======
-=======
->>>>>>> c32d84d (Updates: Added the breakpoints for responsiveness.)
-.gap-24 {
-  gap: 6rem;
 }
 
-<<<<<<< HEAD
-.gap-36 {
-  gap: 9rem;
->>>>>>> 167d15f (feature: Added the Fragen und Antworten section and the footer section.)
-=======
-.gap-28 {
-  gap: 7rem;
-}
-
-.gap-4 {
-  gap: 1rem;
->>>>>>> c32d84d (Updates: Added the breakpoints for responsiveness.)
-}
-
-<<<<<<< HEAD
 .gap-5 {
   gap: 1.25rem;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 .gap-8 {
   gap: 2rem;
 }
@@ -1142,30 +881,12 @@ video {
 
 .overflow-x-hidden {
   overflow-x: hidden;
-=======
-.gap-56 {
-  gap: 14rem;
 }
 
-.gap-7 {
-  gap: 1.75rem;
->>>>>>> 167d15f (feature: Added the Fragen und Antworten section and the footer section.)
-}
-
-=======
->>>>>>> c32d84d (Updates: Added the breakpoints for responsiveness.)
-=======
->>>>>>> 78ac9e3 (Updates: Added the responsiveness for the footer.)
-=======
->>>>>>> 1d91803 (Updates: Upadated the resonsive design of the footer)
-=======
->>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
 .rounded-full {
   border-radius: 9999px;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 .border-b-2 {
   border-bottom-width: 2px;
 }
@@ -1199,6 +920,11 @@ video {
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
+.bg-yellow-500 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(234 179 8 / var(--tw-bg-opacity));
+}
+
 .bg-opacity-80 {
   --tw-bg-opacity: 0.8;
 }
@@ -1226,59 +952,21 @@ video {
 .px-10 {
   padding-left: 2.5rem;
   padding-right: 2.5rem;
-=======
-.bg-green {
-  --tw-bg-opacity: 1;
-=======
-.bg-green {
-  --tw-bg-opacity: 1;
->>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
-  background-color: rgb(138 204 80 / var(--tw-bg-opacity));
 }
 
-.bg-yellow-500 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(234 179 8 / var(--tw-bg-opacity));
-}
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-.object-cover {
-  -o-object-fit: cover;
-     object-fit: cover;
->>>>>>> 167d15f (feature: Added the Fragen und Antworten section and the footer section.)
-}
-
-=======
->>>>>>> d30b636 (feature: Updated the view of paragraphs.)
-=======
-.bg-white {
-  --tw-bg-opacity: 1;
-  background-color: rgb(255 255 255 / var(--tw-bg-opacity));
-}
-
-.bg-gray-500 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(107 114 128 / var(--tw-bg-opacity));
-}
-
->>>>>>> 46d0bf5 (Updated: updated the background for mobile breakpoint for the footer.)
-=======
->>>>>>> dbe00fc (Updates: solved the responsive issue raised in the reviews.)
-=======
->>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
 .px-2 {
   padding-left: 0.5rem;
   padding-right: 0.5rem;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 .px-3 {
   padding-left: 0.75rem;
   padding-right: 0.75rem;
+}
+
+.px-7 {
+  padding-left: 1.75rem;
+  padding-right: 1.75rem;
 }
 
 .px-8 {
@@ -1294,6 +982,11 @@ video {
 .py-10 {
   padding-top: 2.5rem;
   padding-bottom: 2.5rem;
+}
+
+.py-2 {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
 }
 
 .py-4 {
@@ -1315,8 +1008,28 @@ video {
   padding-bottom: 3rem;
 }
 
+.pb-2 {
+  padding-bottom: 0.5rem;
+}
+
+.pb-36 {
+  padding-bottom: 9rem;
+}
+
 .pb-40 {
   padding-bottom: 10rem;
+}
+
+.pb-8 {
+  padding-bottom: 2rem;
+}
+
+.pl-3 {
+  padding-left: 0.75rem;
+}
+
+.pl-6 {
+  padding-left: 1.5rem;
 }
 
 .pr-36 {
@@ -1333,54 +1046,18 @@ video {
 
 .pt-12 {
   padding-top: 3rem;
-=======
-=======
->>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
-.px-7 {
-  padding-left: 1.75rem;
-  padding-right: 1.75rem;
-}
-
-.py-2 {
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
-}
-
-.py-12 {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
-}
-
-.pb-2 {
-  padding-bottom: 0.5rem;
-}
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-.pb-52 {
-  padding-bottom: 13rem;
->>>>>>> 167d15f (feature: Added the Fragen und Antworten section and the footer section.)
 }
 
 .pt-16 {
   padding-top: 4rem;
 }
 
-<<<<<<< HEAD
-=======
-.pt-1 {
-  padding-top: 0.25rem;
+.pt-2 {
+  padding-top: 0.5rem;
 }
 
->>>>>>> 167d15f (feature: Added the Fragen und Antworten section and the footer section.)
 .pt-20 {
   padding-top: 5rem;
-}
-
-<<<<<<< HEAD
-.pt-28 {
-  padding-top: 7rem;
 }
 
 .pt-3 {
@@ -1397,110 +1074,16 @@ video {
 
 .pt-6 {
   padding-top: 1.5rem;
-=======
-.pl-36 {
-  padding-left: 9rem;
-}
-
-.pt-2 {
-  padding-top: 0.5rem;
-}
-
-.pt-24 {
-  padding-top: 6rem;
-}
-
-.pl-32 {
-  padding-left: 8rem;
 }
 
 .pt-8 {
   padding-top: 2rem;
-}
-
-.pl-20 {
-  padding-left: 5rem;
-=======
-.pb-36 {
-  padding-bottom: 9rem;
->>>>>>> d30b636 (feature: Updated the view of paragraphs.)
-}
-
-<<<<<<< HEAD
-.pl-24 {
-  padding-left: 6rem;
-}
-
-<<<<<<< HEAD
-=======
-=======
->>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
-.pb-28 {
-  padding-bottom: 7rem;
-}
-
-<<<<<<< HEAD
->>>>>>> dbe00fc (Updates: solved the responsive issue raised in the reviews.)
-=======
->>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
-.pb-36 {
-  padding-bottom: 9rem;
-}
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-.text-center {
-  text-align: center;
-}
-
-.align-middle {
-  vertical-align: middle;
->>>>>>> 167d15f (feature: Added the Fragen und Antworten section and the footer section.)
-=======
-.pl-36 {
-  padding-left: 9rem;
->>>>>>> d30b636 (feature: Updated the view of paragraphs.)
-=======
-=======
-=======
->>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
-.pl-3 {
-  padding-left: 0.75rem;
-}
-
-<<<<<<< HEAD
->>>>>>> 78ac9e3 (Updates: Added the responsiveness for the footer.)
-.pl-6 {
-  padding-left: 1.5rem;
->>>>>>> c32d84d (Updates: Added the breakpoints for responsiveness.)
-=======
-.pl-6 {
-  padding-left: 1.5rem;
->>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
-}
-
-.pt-8 {
-  padding-top: 2rem;
-}
-
-.pb-1 {
-  padding-bottom: 0.25rem;
-}
-
-.pb-12 {
-  padding-bottom: 3rem;
-}
-
-.pb-8 {
-  padding-bottom: 2rem;
 }
 
 .font-railwayBold {
   font-family: railwayBold;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 .font-railwayItalic {
   font-family: railwayItalic;
 }
@@ -1509,31 +1092,18 @@ video {
   font-family: railwayLight;
 }
 
-=======
->>>>>>> 167d15f (feature: Added the Fragen und Antworten section and the footer section.)
-=======
->>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
 .font-railwayRegular {
   font-family: railwayRegular;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+.text-2xl {
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+
 .text-5xl {
   font-size: 3rem;
   line-height: 1;
-=======
-.text-2xl {
-  font-size: 1.5rem;
-  line-height: 2rem;
->>>>>>> 78ac9e3 (Updates: Added the responsiveness for the footer.)
-=======
-.text-2xl {
-  font-size: 1.5rem;
-  line-height: 2rem;
->>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
 }
 
 .text-base {
@@ -1544,37 +1114,6 @@ video {
 .text-sm {
   font-size: 0.875rem;
   line-height: 1.25rem;
-<<<<<<< HEAD
-=======
-=======
-.text-2xl {
-  font-size: 1.5rem;
-  line-height: 2rem;
-}
-
->>>>>>> c32d84d (Updates: Added the breakpoints for responsiveness.)
-.text-3xl {
-  font-size: 1.875rem;
-  line-height: 2.25rem;
-}
-
-.text-base {
-  font-size: 1rem;
-  line-height: 1.5rem;
-}
-
-<<<<<<< HEAD
-.text-lg {
-  font-size: 1.125rem;
-  line-height: 1.75rem;
->>>>>>> 167d15f (feature: Added the Fragen und Antworten section and the footer section.)
-=======
-.text-sm {
-  font-size: 0.875rem;
-  line-height: 1.25rem;
->>>>>>> c32d84d (Updates: Added the breakpoints for responsiveness.)
-=======
->>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
 }
 
 .text-xl {
@@ -1582,8 +1121,6 @@ video {
   line-height: 1.75rem;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 .text-xs {
   font-size: 0.75rem;
   line-height: 1rem;
@@ -1624,10 +1161,6 @@ video {
   color: rgb(138 204 80 / var(--tw-text-opacity));
 }
 
-=======
->>>>>>> 167d15f (feature: Added the Fragen und Antworten section and the footer section.)
-=======
->>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
 .text-white {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
@@ -1683,9 +1216,14 @@ video {
   background: linear-gradient(304deg, rgba(138, 204, 80, 0.50) 14.06%, rgba(0, 0, 0, 0.00) 100%), #001342;
   -webkit-clip-path: polygon(0 0, 100% 40%, 100% 100%, 0 100%);
           clip-path: polygon(0 0, 100% 40%, 100% 100%, 0 100%);
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+}
+
+@media (max-width: 640px) {
+  .ojemba-oblique{
+    background: linear-gradient(304deg, rgba(138, 204, 80, 0.50) 14.06%, rgba(0, 0, 0, 0.00) 100%), #001342;
+    -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+            clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+  }
 }
 
 .before\:content-\[\'\2022\'\]::before {
@@ -1706,16 +1244,32 @@ video {
     margin-left: 3.5rem;
   }
 
+  .sm\:mt-10 {
+    margin-top: 2.5rem;
+  }
+
   .sm\:mt-16 {
     margin-top: 4rem;
+  }
+
+  .sm\:mt-4 {
+    margin-top: 1rem;
   }
 
   .sm\:mt-48 {
     margin-top: 12rem;
   }
 
+  .sm\:mt-64 {
+    margin-top: 16rem;
+  }
+
   .sm\:block {
     display: block;
+  }
+
+  .sm\:flex {
+    display: flex;
   }
 
   .sm\:h-10 {
@@ -1758,8 +1312,16 @@ video {
     width: 9rem;
   }
 
+  .sm\:w-40 {
+    width: 10rem;
+  }
+
   .sm\:w-52 {
     width: 13rem;
+  }
+
+  .sm\:w-72 {
+    width: 18rem;
   }
 
   .sm\:w-9 {
@@ -1778,70 +1340,16 @@ video {
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 
+  .sm\:gap-10 {
+    gap: 2.5rem;
+  }
+
   .sm\:gap-16 {
     gap: 4rem;
   }
 
   .sm\:gap-20 {
     gap: 5rem;
-  }
-
-  .sm\:pt-9 {
-    padding-top: 2.25rem;
-  }
-
-  .sm\:text-sm {
-    font-size: 0.875rem;
-    line-height: 1.25rem;
-  }
-
-  .sm\:text-xl {
-    font-size: 1.25rem;
-    line-height: 1.75rem;
-=======
-=======
->>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
-}
-
-@media (max-width: 640px) {
-  .ojemba-oblique{
-    background: linear-gradient(304deg, rgba(138, 204, 80, 0.50) 14.06%, rgba(0, 0, 0, 0.00) 100%), #001342;
-    -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
-            clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
-  }
-}
-
-@media (min-width: 640px) {
-  .sm\:mt-10 {
-    margin-top: 2.5rem;
-  }
-
-  .sm\:mt-4 {
-    margin-top: 1rem;
-  }
-
-  .sm\:mt-64 {
-    margin-top: 16rem;
-  }
-
-  .sm\:flex {
-    display: flex;
-  }
-
-  .sm\:h-12 {
-    height: 3rem;
-  }
-
-  .sm\:w-40 {
-    width: 10rem;
-  }
-
-  .sm\:w-72 {
-    width: 18rem;
-  }
-
-  .sm\:gap-10 {
-    gap: 2.5rem;
   }
 
   .sm\:gap-24 {
@@ -1863,18 +1371,18 @@ video {
   .sm\:px-7 {
     padding-left: 1.75rem;
     padding-right: 1.75rem;
-<<<<<<< HEAD
->>>>>>> c32d84d (Updates: Added the breakpoints for responsiveness.)
-=======
->>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
+  }
+
+  .sm\:pb-0 {
+    padding-bottom: 0px;
   }
 
   .sm\:pt-0 {
     padding-top: 0px;
   }
 
-  .sm\:pb-0 {
-    padding-bottom: 0px;
+  .sm\:pt-9 {
+    padding-top: 2.25rem;
   }
 
   .sm\:text-3xl {
@@ -1887,6 +1395,11 @@ video {
     line-height: 1.5rem;
   }
 
+  .sm\:text-sm {
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+  }
+
   .sm\:text-xl {
     font-size: 1.25rem;
     line-height: 1.75rem;
@@ -1894,11 +1407,10 @@ video {
 }
 
 @media (min-width: 768px) {
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
+  .md\:mb-40 {
+    margin-bottom: 10rem;
+  }
+
   .md\:ml-12 {
     margin-left: 3rem;
   }
@@ -1911,16 +1423,46 @@ video {
     margin-top: 2rem;
   }
 
-<<<<<<< HEAD
->>>>>>> c32d84d (Updates: Added the breakpoints for responsiveness.)
-=======
->>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
+  .md\:-mt-2 {
+    margin-top: -0.5rem;
+  }
+
+  .md\:-mt-8 {
+    margin-top: -2rem;
+  }
+
+  .md\:-mt-32 {
+    margin-top: -8rem;
+  }
+
+  .md\:-mt-40 {
+    margin-top: -10rem;
+  }
+
   .md\:block {
     display: block;
   }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+  .md\:h-\[\] {
+    height: ;
+  }
+
+  .md\:h-\[300\] {
+    height: 300;
+  }
+
+  .md\:h-\[300px\] {
+    height: 300px;
+  }
+
+  .md\:w-80 {
+    width: 20rem;
+  }
+
+  .md\:gap-24 {
+    gap: 6rem;
+  }
+
   .md\:px-10 {
     padding-left: 2.5rem;
     padding-right: 2.5rem;
@@ -1929,71 +1471,6 @@ video {
   .md\:py-20 {
     padding-top: 5rem;
     padding-bottom: 5rem;
-  }
-
-  .lg\:static {
-    position: static;
-  }
-
-  .lg\:absolute {
-    position: absolute;
-  }
-
-  .lg\:relative {
-    position: relative;
-  }
-
-  .lg\:-top-44 {
-    top: -11rem;
-  }
-
-  .lg\:bottom-0 {
-    bottom: 0px;
-  }
-
-  .lg\:right-0 {
-    right: 0px;
-  }
-
-  .lg\:mb-44 {
-    margin-bottom: 11rem;
-  }
-
-  .lg\:ml-16 {
-    margin-left: 4rem;
-  }
-
-  .lg\:ml-44 {
-    margin-left: 11rem;
-  }
-
-  .lg\:ml-6 {
-    margin-left: 1.5rem;
-  }
-
-  .lg\:ml-60 {
-    margin-left: 15rem;
-  }
-
-  .lg\:mt-0 {
-    margin-top: 0px;
-  }
-
-  .lg\:mt-24 {
-    margin-top: 6rem;
-  }
-
-  .lg\:mt-3 {
-    margin-top: 0.75rem;
-=======
-=======
->>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
-  .md\:w-80 {
-    width: 20rem;
-  }
-
-  .md\:gap-24 {
-    gap: 6rem;
   }
 
   .md\:pl-16 {
@@ -2022,6 +1499,50 @@ video {
 }
 
 @media (min-width: 1024px) {
+  .lg\:static {
+    position: static;
+  }
+
+  .lg\:absolute {
+    position: absolute;
+  }
+
+  .lg\:relative {
+    position: relative;
+  }
+
+  .lg\:-top-44 {
+    top: -11rem;
+  }
+
+  .lg\:bottom-0 {
+    bottom: 0px;
+  }
+
+  .lg\:right-0 {
+    right: 0px;
+  }
+
+  .lg\:z-10 {
+    z-index: 10;
+  }
+
+  .lg\:-mt-\[300px\] {
+    margin-top: -300px;
+  }
+
+  .lg\:mb-44 {
+    margin-bottom: 11rem;
+  }
+
+  .lg\:mb-6 {
+    margin-bottom: 1.5rem;
+  }
+
+  .lg\:ml-16 {
+    margin-left: 4rem;
+  }
+
   .lg\:ml-24 {
     margin-left: 6rem;
   }
@@ -2030,25 +1551,68 @@ video {
     margin-left: 7rem;
   }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
   .lg\:ml-40 {
     margin-left: 10rem;
->>>>>>> c32d84d (Updates: Added the breakpoints for responsiveness.)
   }
 
-=======
->>>>>>> dbe00fc (Updates: solved the responsive issue raised in the reviews.)
-=======
->>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
+  .lg\:ml-44 {
+    margin-left: 11rem;
+  }
+
+  .lg\:ml-6 {
+    margin-left: 1.5rem;
+  }
+
+  .lg\:ml-60 {
+    margin-left: 15rem;
+  }
+
+  .lg\:ml-72 {
+    margin-left: 18rem;
+  }
+
+  .lg\:ml-80 {
+    margin-left: 20rem;
+  }
+
+  .lg\:mr-64 {
+    margin-right: 16rem;
+  }
+
+  .lg\:mr-80 {
+    margin-right: 20rem;
+  }
+
+  .lg\:mr-96 {
+    margin-right: 24rem;
+  }
+
+  .lg\:mt-0 {
+    margin-top: 0px;
+  }
+
+  .lg\:mt-20 {
+    margin-top: 5rem;
+  }
+
+  .lg\:mt-24 {
+    margin-top: 6rem;
+  }
+
+  .lg\:mt-3 {
+    margin-top: 0.75rem;
+  }
+
   .lg\:mt-36 {
     margin-top: 9rem;
   }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
   .lg\:mt-40 {
     margin-top: 10rem;
+  }
+
+  .lg\:mt-48 {
+    margin-top: 12rem;
   }
 
   .lg\:mt-6 {
@@ -2059,8 +1623,32 @@ video {
     margin-top: 15rem;
   }
 
+  .lg\:mt-80 {
+    margin-top: 20rem;
+  }
+
   .lg\:mt-\[90px\] {
     margin-top: 90px;
+  }
+
+  .lg\:mt-72 {
+    margin-top: 18rem;
+  }
+
+  .lg\:mt-96 {
+    margin-top: 24rem;
+  }
+
+  .lg\:ml-96 {
+    margin-left: 24rem;
+  }
+
+  .lg\:mr-72 {
+    margin-right: 18rem;
+  }
+
+  .lg\:mt-52 {
+    margin-top: 13rem;
   }
 
   .lg\:block {
@@ -2069,6 +1657,10 @@ video {
 
   .lg\:flex {
     display: flex;
+  }
+
+  .lg\:grid {
+    display: grid;
   }
 
   .lg\:hidden {
@@ -2089,6 +1681,10 @@ video {
 
   .lg\:h-44 {
     height: 11rem;
+  }
+
+  .lg\:h-\[550px\] {
+    height: 550px;
   }
 
   .lg\:w-1\/3 {
@@ -2139,6 +1735,10 @@ video {
     width: 900px;
   }
 
+  .lg\:grid-cols-2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
   .lg\:flex-row {
     flex-direction: row;
   }
@@ -2155,6 +1755,10 @@ video {
     gap: 5rem;
   }
 
+  .lg\:gap-36 {
+    gap: 9rem;
+  }
+
   .lg\:gap-40 {
     gap: 10rem;
   }
@@ -2165,6 +1769,10 @@ video {
 
   .lg\:gap-48 {
     gap: 12rem;
+  }
+
+  .lg\:gap-7 {
+    gap: 1.75rem;
   }
 
   .lg\:space-x-10 > :not([hidden]) ~ :not([hidden]) {
@@ -2179,6 +1787,14 @@ video {
     margin-left: calc(1.5rem * calc(1 - var(--tw-space-x-reverse)));
   }
 
+  .lg\:bg-cover {
+    background-size: cover;
+  }
+
+  .lg\:bg-no-repeat {
+    background-repeat: no-repeat;
+  }
+
   .lg\:p-24 {
     padding: 6rem;
   }
@@ -2188,49 +1804,34 @@ video {
     padding-right: 10rem;
   }
 
-  .lg\:py-6 {
-    padding-top: 1.5rem;
-    padding-bottom: 1.5rem;
-=======
-=======
->>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
-  .lg\:grid {
-    display: grid;
-  }
-
-  .lg\:grid-cols-2 {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
-
-  .lg\:gap-36 {
-    gap: 9rem;
-  }
-
-  .lg\:gap-7 {
-    gap: 1.75rem;
-  }
-
   .lg\:py-3 {
     padding-top: 0.75rem;
     padding-bottom: 0.75rem;
-<<<<<<< HEAD
->>>>>>> c32d84d (Updates: Added the breakpoints for responsiveness.)
-=======
->>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
+  }
+
+  .lg\:py-6 {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
   }
 
   .lg\:pl-36 {
     padding-left: 9rem;
   }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
   .lg\:pr-28 {
     padding-right: 7rem;
   }
 
   .lg\:pr-48 {
     padding-right: 12rem;
+  }
+
+  .lg\:pt-20 {
+    padding-top: 5rem;
+  }
+
+  .lg\:pt-24 {
+    padding-top: 6rem;
   }
 
   .lg\:pt-28 {
@@ -2249,17 +1850,80 @@ video {
     padding-top: 1.25rem;
   }
 
-=======
->>>>>>> c32d84d (Updates: Added the breakpoints for responsiveness.)
-=======
->>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
+  .lg\:pl-96 {
+    padding-left: 24rem;
+  }
+
+  .lg\:pr-96 {
+    padding-right: 24rem;
+  }
+
+  .lg\:pr-72 {
+    padding-right: 18rem;
+  }
+
+  .lg\:pr-7 {
+    padding-right: 1.75rem;
+  }
+
+  .lg\:pr-64 {
+    padding-right: 16rem;
+  }
+
+  .lg\:pr-52 {
+    padding-right: 13rem;
+  }
+
+  .lg\:pr-\[\] {
+    padding-right: ;
+  }
+
+  .lg\:pr-\[96px\] {
+    padding-right: 96px;
+  }
+
+  .lg\:pr-\[32\] {
+    padding-right: 32;
+  }
+
+  .lg\:pr-\[32px\] {
+    padding-right: 32px;
+  }
+
+  .lg\:pr-\[3\] {
+    padding-right: 3;
+  }
+
+  .lg\:pr-\[52px\] {
+    padding-right: 52px;
+  }
+
+  .lg\:pr-\[5\] {
+    padding-right: 5;
+  }
+
+  .lg\:pr-\[200px\] {
+    padding-right: 200px;
+  }
+
+  .lg\:pr-\[400px\] {
+    padding-right: 400px;
+  }
+
+  .lg\:font-railwayBold {
+    font-family: railwayBold;
+  }
+
   .lg\:text-3xl {
     font-size: 1.875rem;
     line-height: 2.25rem;
   }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+  .lg\:text-4xl {
+    font-size: 2.25rem;
+    line-height: 2.5rem;
+  }
+
   .lg\:text-5xl {
     font-size: 3rem;
     line-height: 1;
@@ -2275,24 +1939,14 @@ video {
     line-height: 1.75rem;
   }
 
-  .lg\:text-xs {
-    font-size: 0.75rem;
-    line-height: 1rem;
-  }
-}
-
-@media (min-width: 1280px) {
-=======
-=======
->>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
-  .lg\:text-4xl {
-    font-size: 2.25rem;
-    line-height: 2.5rem;
-  }
-
   .lg\:text-xl {
     font-size: 1.25rem;
     line-height: 1.75rem;
+  }
+
+  .lg\:text-xs {
+    font-size: 0.75rem;
+    line-height: 1rem;
   }
 }
 
@@ -2301,23 +1955,20 @@ video {
     margin-left: 8rem;
   }
 
-<<<<<<< HEAD
->>>>>>> c32d84d (Updates: Added the breakpoints for responsiveness.)
-=======
->>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
   .xl\:ml-36 {
     margin-left: 9rem;
   }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
   .xl\:ml-44 {
     margin-left: 11rem;
   }
 
   .xl\:ml-80 {
     margin-left: 20rem;
+  }
+
+  .xl\:mt-40 {
+    margin-top: 10rem;
   }
 
   .xl\:flex-row {
@@ -2332,26 +1983,18 @@ video {
   .xl\:py-52 {
     padding-top: 13rem;
     padding-bottom: 13rem;
-=======
-  .xl\:ml-96 {
-    margin-left: 24rem;
   }
 
-=======
->>>>>>> dbe00fc (Updates: solved the responsive issue raised in the reviews.)
   .xl\:pl-10 {
     padding-left: 2.5rem;
->>>>>>> c32d84d (Updates: Added the breakpoints for responsiveness.)
-=======
-  .xl\:pl-10 {
-    padding-left: 2.5rem;
->>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
   }
 }
 
 @media (min-width: 1536px) {
-<<<<<<< HEAD
-<<<<<<< HEAD
+  .\32xl\:mt-64 {
+    margin-top: 16rem;
+  }
+
   .\32xl\:grid {
     display: grid;
   }
@@ -2359,23 +2002,8 @@ video {
   .\32xl\:grid-cols-2 {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
-}
-=======
-}
->>>>>>> 167d15f (feature: Added the Fragen und Antworten section and the footer section.)
-=======
-=======
->>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
-  .\32xl\:mt-64 {
-    margin-top: 16rem;
-  }
 
   .\32xl\:gap-56 {
     gap: 14rem;
   }
-<<<<<<< HEAD
 }
->>>>>>> c32d84d (Updates: Added the breakpoints for responsiveness.)
-=======
-}
->>>>>>> dbe00fc7e5701b7a27a763fb1192497dfc67c6f9
