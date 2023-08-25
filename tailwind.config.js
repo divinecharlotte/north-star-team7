@@ -14,10 +14,6 @@ module.exports = {
         "green": '#8ACC50',
         "darkBlue":"#001342"
       },
-      screens: {
-        xs: { min: "375px" },
-        lg: { min: "768px" },
-      },
       backgroundImage: {
         'unsere': "url('/images/bg-unsere2.webp')"
       }
