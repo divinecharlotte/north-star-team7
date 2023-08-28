@@ -9,6 +9,8 @@ module.exports = {
        "railwayItalic" : "railwayItalic",
        "railwayLight" : "railwayLight",
        "railwayBlack" : "railwayBlack",
+       "montserratLight":"montserratLight",
+       "montserratMedium":"montserratMedium",
       },
       colors: {
         "green": '#8ACC50',
