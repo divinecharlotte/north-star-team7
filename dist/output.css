@@ -1254,6 +1254,20 @@ video {
   }
 }
 
+.ojemba-oblique4 {
+  background: linear-gradient(131deg, rgba(138, 204, 80, 0.50) 4.55%, rgba(0, 0, 0, 0.00) 60%), #001342;
+  -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 0 60%);
+          clip-path: polygon(0 0, 100% 0, 100% 100%, 0 60%);
+}
+
+@media (max-width: 1000px) {
+  .ojemba-oblique4 {
+    background: linear-gradient(131deg, rgba(138, 204, 80, 0.50) 4.55%, rgba(0, 0, 0, 0.00) 60%), #001342;
+    -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+            clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+  }
+}
+
 .before\:content-\[\'\2022\'\]::before {
   --tw-content: '•';
   content: var(--tw-content);
@@ -1945,6 +1959,5 @@ video {
     padding-right: 5rem;
   }
 }
-
 
 
