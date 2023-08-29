@@ -16,6 +16,7 @@ module.exports = {
         "green": '#8ACC50',
         "darkBlue":"#001342"
       },
+
       backgroundImage: {
         'unsere': "url('/images/bg-unsere2.webp')"
       }
