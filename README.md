@@ -39,7 +39,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](hhttps://leafy-horse-e93b78.netlify.app/)
+[Live Demo Link](hhttps://leafy-horse-e93b78.netlify.app/)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
