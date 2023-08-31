@@ -562,6 +562,10 @@ video {
   left: 1.25rem;
 }
 
+.-bottom-20 {
+  bottom: -5rem;
+}
+
 .z-0 {
   z-index: 0;
 }
@@ -695,6 +699,10 @@ video {
   margin-top: 2rem;
 }
 
+.mr-16 {
+  margin-right: 4rem;
+}
+
 .inline {
   display: inline;
 }
@@ -810,6 +818,10 @@ video {
 .-rotate-1 {
   --tw-rotate: -1deg;
   transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+}
+
+.cursor-pointer {
+  cursor: pointer;
 }
 
 .flex-row {
@@ -968,6 +980,10 @@ video {
 
 .p-6 {
   padding: 1.5rem;
+}
+
+.p-8 {
+  padding: 2rem;
 }
 
 .px-10 {
@@ -1414,6 +1430,10 @@ video {
     width: 800px;
   }
 
+  .sm\:w-32 {
+    width: 8rem;
+  }
+
   .sm\:grid-cols-2 {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
@@ -1518,6 +1538,14 @@ video {
     margin-top: 2rem;
   }
 
+  .md\:ml-\[-100px\] {
+    margin-left: -100px;
+  }
+
+  .md\:mr-8 {
+    margin-right: 2rem;
+  }
+
   .md\:block {
     display: block;
   }
@@ -1554,6 +1582,10 @@ video {
 
   .md\:pr-10 {
     padding-right: 2.5rem;
+  }
+
+  .md\:font-railwayBold {
+    font-family: railwayBold;
   }
 
   .md\:text-2xl {
@@ -1723,6 +1755,10 @@ video {
     margin-top: 90px;
   }
 
+  .lg\:ml-20 {
+    margin-left: 5rem;
+  }
+
   .lg\:block {
     display: block;
   }
@@ -1869,6 +1905,10 @@ video {
     gap: 1.75rem;
   }
 
+  .lg\:gap-8 {
+    gap: 2rem;
+  }
+
   .lg\:space-x-10 > :not([hidden]) ~ :not([hidden]) {
     --tw-space-x-reverse: 0;
     margin-right: calc(2.5rem * var(--tw-space-x-reverse));
@@ -1911,6 +1951,11 @@ video {
   .lg\:py-6 {
     padding-top: 1.5rem;
     padding-bottom: 1.5rem;
+  }
+
+  .lg\:px-44 {
+    padding-left: 11rem;
+    padding-right: 11rem;
   }
 
   .lg\:pl-36 {
